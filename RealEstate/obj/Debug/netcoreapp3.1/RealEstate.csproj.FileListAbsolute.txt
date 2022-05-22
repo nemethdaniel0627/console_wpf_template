@@ -1,0 +1,15 @@
+A:\Németh_Dániel\RealEstate\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.csproj.AssemblyReference.cache
+A:\Németh_Dániel\RealEstate\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.GeneratedMSBuildEditorConfig.editorconfig
+A:\Németh_Dániel\RealEstate\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.AssemblyInfoInputs.cache
+A:\Németh_Dániel\RealEstate\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.AssemblyInfo.cs
+A:\Németh_Dániel\RealEstate\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.csproj.CoreCompileInputs.cache
+A:\Németh_Dániel\RealEstate\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.exe
+A:\Németh_Dániel\RealEstate\RealEstate\bin\Debug\netcoreapp3.1\realestates.csv
+A:\Németh_Dániel\RealEstate\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.deps.json
+A:\Németh_Dániel\RealEstate\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.runtimeconfig.json
+A:\Németh_Dániel\RealEstate\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.runtimeconfig.dev.json
+A:\Németh_Dániel\RealEstate\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.dll
+A:\Németh_Dániel\RealEstate\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.pdb
+A:\Németh_Dániel\RealEstate\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.dll
+A:\Németh_Dániel\RealEstate\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.pdb
+A:\Németh_Dániel\RealEstate\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.genruntimeconfig.cache
